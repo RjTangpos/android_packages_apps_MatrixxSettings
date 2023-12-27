@@ -1090,9 +1090,7 @@
     <string name="screenshot_shutter_sound_title">Screenshot sound</string>
     <string name="screenshot_shutter_sound_summary">Play sound when screenshot is taken</string>
 
-    <!-- Statusbar Clock background chip -->
-    <string name="statusbar_clock_chip_title">Background chip</string>
-    <string name="statusbar_clock_chip_summary">Display accented chip behind clock</string>
+    <!-- Statusbar Clock font style -->
     <string name="status_bar_clock_font_style_title">Clock font style</string>
     <string name="status_bar_clock_color_title">Clock font color</string>
 

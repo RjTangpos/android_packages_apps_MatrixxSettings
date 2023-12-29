@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2023 Project Matrixx
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector android:height="24dp" android:viewportHeight="24"
+    android:viewportWidth="24" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#000" android:pathData="M12,0C5.373,0 0,5.373 0,12s5.373,12 12,12s12,-5.373 12,-12C24.002,5.375 18.632,0.002 12.007,0zM19.327,18.065s-0.581,-2.627 -1.528,-4.197c-0.514,-0.857 -1.308,-1.553 -2.368,-1.532c-0.745,0 -1.399,0.423 -2.2,1.553c-0.469,0.77 -0.882,1.573 -1.235,2.403c0,0 -0.29,-0.675 -0.63,-1.343a8.038,8.038 0,0 0,-0.605 -1.049c-0.804,-1.13 -1.455,-1.539 -2.2,-1.553c-1.049,-0.021 -1.854,0.675 -2.364,1.528c-0.948,1.574 -1.528,4.197 -1.528,4.197h-0.864l4.606,-15.12l3.56,11.804l0.024,0.021l0.024,-0.021l3.56,-11.804l4.61,15.113z"/>
+</vector>

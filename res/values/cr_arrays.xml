@@ -905,7 +905,6 @@
         <item>@string/theme_style_spritz</item>
         <item>@string/theme_style_rainbow</item>
         <item>@string/theme_style_fruit_salad</item>
-        <item>@string/theme_style_muted</item>
         <item>@string/theme_style_content</item>
     </string-array>
 
@@ -916,7 +915,6 @@
         <item>SPRITZ</item>
         <item>RAINBOW</item>
         <item>FRUIT_SALAD</item>
-        <item>MUTED</item>
         <item>CONTENT</item>
     </string-array>
 
